@@ -1,0 +1,17 @@
+{
+  "name": "liribot",
+  "version": "1.0.0",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  }
+}
